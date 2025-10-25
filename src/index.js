@@ -1,1 +1,1 @@
-export const Button = ({ label }) => <button>{label}</button>;
+export { default as Button } from './components/Button';
